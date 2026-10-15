@@ -1,4 +1,4 @@
-# Hola!! 👋 Dejame que te cuente:
+# Hola!! 👋 Dejame que te cuente un poco:
 
 Soy estudiante del **Grado Superior de Administración de Sistemas Informáticos en Red (ASIR)** y me interesa aprender cómo funcionan los sistemas, las redes y las tecnologías que utilizamos cada día.
 
